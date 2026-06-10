@@ -125,7 +125,7 @@ body {
 }
 
 .logo-img {
-  width: 280px;
+  width: 240px;
   height: auto;
   filter: drop-shadow(0 2px 12px rgba(0, 87, 159, 0.10));
   transition: transform 0.4s ease;
@@ -447,7 +447,7 @@ body {
   }
 
   .logo-img {
-    width: 210px;
+    width: 180px;
   }
 
   .pot {
